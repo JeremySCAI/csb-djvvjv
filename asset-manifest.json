@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-djvvjv/static/css/main.73c7ff7b.chunk.css",
+    "main.js": "https://.github.io/csb-djvvjv/static/js/main.970b7f2d.chunk.js",
+    "main.js.map": "https://.github.io/csb-djvvjv/static/js/main.970b7f2d.chunk.js.map",
+    "runtime~main.js": "https://.github.io/csb-djvvjv/static/js/runtime~main.a259b280.js",
+    "runtime~main.js.map": "https://.github.io/csb-djvvjv/static/js/runtime~main.a259b280.js.map",
+    "static/js/2.9314143e.chunk.js": "https://.github.io/csb-djvvjv/static/js/2.9314143e.chunk.js",
+    "static/js/2.9314143e.chunk.js.map": "https://.github.io/csb-djvvjv/static/js/2.9314143e.chunk.js.map",
+    "index.html": "https://.github.io/csb-djvvjv/index.html",
+    "precache-manifest.2914a30b2de6716fe837449bd22198b5.js": "https://.github.io/csb-djvvjv/precache-manifest.2914a30b2de6716fe837449bd22198b5.js",
+    "service-worker.js": "https://.github.io/csb-djvvjv/service-worker.js",
+    "static/css/main.73c7ff7b.chunk.css.map": "https://.github.io/csb-djvvjv/static/css/main.73c7ff7b.chunk.css.map",
+    "static/media/audio.gif": "https://.github.io/csb-djvvjv/static/media/audio.db57f379.gif",
+    "static/media/bud.png": "https://.github.io/csb-djvvjv/static/media/bud.14903a2a.png",
+    "static/media/emilyBackground.jpg": "https://.github.io/csb-djvvjv/static/media/emilyBackground.09d5abfb.jpg",
+    "static/media/icon.png": "https://.github.io/csb-djvvjv/static/media/icon.fade391b.png",
+    "static/media/logo.png": "https://.github.io/csb-djvvjv/static/media/logo.bb5d4b08.png",
+    "static/media/manonbeach.png": "https://.github.io/csb-djvvjv/static/media/manonbeach.2f05aee1.png",
+    "static/media/popupemily.png": "https://.github.io/csb-djvvjv/static/media/popupemily.7e2ca13d.png",
+    "static/media/voice.gif": "https://.github.io/csb-djvvjv/static/media/voice.dd736258.gif"
+  }
+}
